@@ -10,7 +10,7 @@ A notable issue has been discussed in the Microsoft community, where users exper
 
 2. [Azure strike through detection](https://learn.microsoft.com/en-au/answers/questions/1811177/detect-strikethrough-text)
 
-![Azure Document Intelligence](Img\strike_through_detection_not_working.png)
+![Azure Document Intelligence](img\strike_through_detection_not_working.png)
 
 ## Workarounds
 - **Preprocessing the document**: Use image processing techniques (e.g., OpenCV) to detect and remove strikethrough lines before feeding the document into Azure Document Intelligence.
